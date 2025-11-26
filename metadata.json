@@ -1,0 +1,5 @@
+{
+  "name": "Planify",
+  "description": "Planify is a smart study planner that leverages Gemini to create personalized study schedules, helping students stay organized and on track with their educational goals.",
+  "requestFramePermissions": []
+}
